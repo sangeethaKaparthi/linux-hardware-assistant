@@ -1,0 +1,6 @@
+
+ollama
+typer
+pydantic
+python-dotenv
+pytest
